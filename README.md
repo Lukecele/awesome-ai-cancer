@@ -113,6 +113,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Lung
 * [ncoudray/DeepPATH](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
 * [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
+* [Lukecele/spatial-oncology-master](https://github.com/Lukecele/spatial-oncology-master) - [[Portal](https://lukecele.github.io/spatial-oncology-master/)] - Biophysical reaction-diffusion transport modeling, evolutionary game dynamics, and clinical survival analysis for EGFR-mutant lung adenocarcinoma
 
 #### Oral
 * [smg478/OralCancerDetectionOnCTImages](https://github.com/smg478/OralCancerDetectionOnCTImages) - [[Paper](https://arxiv.org/abs/1611.09769)] - C++ implementation of oral cancer detection on CT images with a neural network classifier
